@@ -1,0 +1,7 @@
+{
+  "name": "relier",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
